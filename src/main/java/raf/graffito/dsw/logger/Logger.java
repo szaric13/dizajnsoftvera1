@@ -1,0 +1,7 @@
+package raf.graffito.dsw.logger;
+
+import raf.graffito.dsw.observer.Subscriber;
+
+public interface Logger extends Subscriber {
+    void log(String error);
+}
