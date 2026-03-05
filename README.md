@@ -1,2 +1,2 @@
-# dizajnsoftvera1 powerpoint
+#  powerpoint java project
 Powerpoint projekat
